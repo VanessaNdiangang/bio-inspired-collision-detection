@@ -1,0 +1,11 @@
+Filename,TrueLabel,StimulusType
+loom_on_inhibition.mp4,1,looming
+looming_grouping.mp4,1,looming
+looming_off_inhibition.mp4,1,looming
+looming_photoreceptor.mp4,1,looming
+raw_loom.mp4,1,looming
+recession_grouping.mp4,0,receding
+recession_off_inhibition.mp4,0,receding
+recession_on_inhibition.mp4,0,receding
+recession_photoreceptor.mp4,0,receding
+recession_raw.mp4,0,receding

@@ -1,0 +1,11 @@
+StimulusType,Video,Frames,PositiveFrames,NegativeFrames,MajorityClassBaseline
+lateral,lateral_04.mp4,30,0,30,1.0
+lateral,lateral_05.mp4,30,0,30,1.0
+looming,looming_04.mp4,30,22,8,0.7333
+looming,looming_05.mp4,30,23,7,0.7667
+looming_camera,looming_camera_04.mp4,30,15,15,0.5
+looming_camera,looming_camera_05.mp4,30,15,15,0.5
+looming_lighting,looming_lighting_04.mp4,30,15,15,0.5
+looming_lighting,looming_lighting_05.mp4,30,15,15,0.5
+receding,receding_04.mp4,30,0,30,1.0
+receding,receding_05.mp4,30,0,30,1.0

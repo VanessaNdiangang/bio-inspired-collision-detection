@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "d:\\UoY CS Degree\\article submission\\lgmd\\ConsoleProject.csproj": {}
+  },
+  "projects": {
+    "d:\\UoY CS Degree\\article submission\\lgmd\\ConsoleProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\UoY CS Degree\\article submission\\lgmd\\ConsoleProject.csproj",
+        "projectName": "ConsoleProject",
+        "projectPath": "d:\\UoY CS Degree\\article submission\\lgmd\\ConsoleProject.csproj",
+        "packagesPath": "C:\\Users\\vanes\\.nuget\\packages\\",
+        "outputPath": "d:\\UoY CS Degree\\article submission\\lgmd\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vanes\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "OpenCVSharp4": {
+              "target": "Package",
+              "version": "[4.10.0.20241108, )"
+            },
+            "OpenCVSharp4.runtime.win": {
+              "target": "Package",
+              "version": "[4.10.0.20241108, )"
+            },
+            "OpenCvSharp4.Extensions": {
+              "target": "Package",
+              "version": "[4.10.0.20241108, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
